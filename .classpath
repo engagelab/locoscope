@@ -91,5 +91,5 @@
   <classpathentry path="/Users/userxd/Developer/Tools/play-2.0/framework/../repository/local/org.easytesting/fest-util/1.1.6/jars/fest-util.jar" kind="lib"></classpathentry>
   <classpathentry path="org.eclipse.jdt.launching.JRE_CONTAINER" kind="con"></classpathentry>
   <classpathentry path="bin" kind="output"></classpathentry>
-  <classpathentry path="/Users/userxd/developer/locoscape/locoscope/target/scala-2.9.1/classes_managed" kind="lib"></classpathentry>
+  <classpathentry path="/Users/userxd/developer/locoscope/locoscope/target/scala-2.9.1/classes_managed" kind="lib"></classpathentry>
 </classpath>

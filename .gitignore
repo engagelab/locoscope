@@ -1,11 +1,7 @@
 logs
 project/project
 project/target
-codepointopen/done
 target
 tmp
 .history
-.settings
-.idea
-.idea_modules
 dist
